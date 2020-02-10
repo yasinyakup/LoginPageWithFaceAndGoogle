@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginPageWithFaceAndGoogle</string>
+    <string name="or_sign_in_with">Or sign in with</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="text_on_singin">With millions of users all over the world, wo give you ability to connect with people no matter where you are</string>
+    <string name="find_new_nfriends_nearby">Find new\nFriends nearby</string>
+</resources>
